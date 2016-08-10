@@ -3984,6 +3984,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
+  
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4221,7 +4222,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (max-device-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
-    max-height: 200px;
+    max-height: 100px;
   }
 }
 .container > .navbar-header,
